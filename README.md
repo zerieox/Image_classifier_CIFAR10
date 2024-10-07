@@ -1,6 +1,5 @@
 # CIFAR-10 Image Classification with Convolutional Neural Networks
 
-![CIFAR-10 Logo](https://www.cs.toronto.edu/~kriz/cifar.html)  
 *Image Source: [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)*
 
 ## Project Overview
